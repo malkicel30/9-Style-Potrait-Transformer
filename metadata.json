@@ -1,0 +1,5 @@
+{
+  "name": "9-Style Portrait Transformer",
+  "description": "An AI-powered web application that takes a user-uploaded portrait and transforms it into nine different artistic styles simultaneously. Features include parallel generation, style-specific prompts, variable output resolutions, and options to download individual images or a complete ZIP bundle of all generated styles.",
+  "requestFramePermissions": []
+}
